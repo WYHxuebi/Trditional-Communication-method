@@ -1,0 +1,13 @@
+torch~=2.1.0
+
+argparse
+random
+scikit-commpy
+numpy
+scikit-image
+tqdm 
+logging
+scipy
+collections
+requests
+math
