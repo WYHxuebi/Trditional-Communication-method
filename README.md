@@ -26,7 +26,7 @@ LPIPS is employed to evaluate the perceptual similarity of the reconstructed ima
 2. Install other pip packages via `pip install -r requirements.txt`.
 3. Prepare the dataset
     <details>
-    <summary> assume the AFHQ dataset is in `./dataset/AFHQ`. It should be like this:</summary> 
+    <summary> assume the AFHQ dataset is in "./dataset/AFHQ". It should be like this:</summary> 
 
     ```
     ./dataset/AFHQ:
