@@ -1,6 +1,6 @@
 # Traditional communication methods used as baselines for multi-user semantic communication
 
-## What's New?
+## What's it about?
 
 ### 🔥 JPEG-1/2LDPC-BPSK-NOMA ✨:
 
